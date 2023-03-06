@@ -1,0 +1,15 @@
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\bin\Debug\net6.0\Aula07-MetodosFuncoes.exe
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\bin\Debug\net6.0\Aula07-MetodosFuncoes.deps.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\bin\Debug\net6.0\Aula07-MetodosFuncoes.runtimeconfig.json
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\bin\Debug\net6.0\Aula07-MetodosFuncoes.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\bin\Debug\net6.0\Aula07-MetodosFuncoes.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\Aula07-MetodosFuncoes.csproj.AssemblyReference.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\Aula07-MetodosFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\Aula07-MetodosFuncoes.AssemblyInfoInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\Aula07-MetodosFuncoes.AssemblyInfo.cs
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\Aula07-MetodosFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\Aula07-MetodosFuncoes.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\refint\Aula07-MetodosFuncoes.dll
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\Aula07-MetodosFuncoes.pdb
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\Aula07-MetodosFuncoes.genruntimeconfig.cache
+C:\Users\elian\OneDrive\Documentos\2023\Fiap\Shift_Mastering C#\Modulo 1\Programas\Aula07-MetodosFuncoes\obj\Debug\net6.0\ref\Aula07-MetodosFuncoes.dll
